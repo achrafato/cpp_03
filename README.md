@@ -5,16 +5,13 @@ Introduction to inheritance and class hierarchies in C++, demonstrated through a
 ## 📚 Class Hierarchy
 
 ```
-                ClapTrap
-                    │
-                    │
-                ScavTrap
-                    │
-                    │
-                FragTrap
-                    │
-                    │
-              DiamondTrap
+              - - ClapTrap - -
+             |                |
+             |                |
+          FragTrap - - - - ScavTrap
+                      │
+                      │
+                 DiamondTrap
 ```
 
 ## 📁 Exercises
